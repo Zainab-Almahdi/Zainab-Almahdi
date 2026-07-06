@@ -2,9 +2,9 @@
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://i.giphy.com/ue5ZwFCaxy64M.webp)" width="280" />
 </p>
-## 💻 Tools I'm comfortable with
+# 💻 Tools I'm comfortable with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,html,css,react,dotnet,bootstrap,jquery" />
