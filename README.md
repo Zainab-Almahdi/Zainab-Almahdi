@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'm Zainab 🌸</b></h1>
+<h1 align="center"><b>Hello, I'm Zainab🌸</b></h1>
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
