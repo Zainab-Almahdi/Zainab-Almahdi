@@ -1,4 +1,9 @@
-## Hello! I'm Zainab Almahdi
+<h1 align="center"><b>Hello, I'm Zainab🌸</b></h1>
+<h3 align="center">Welcome!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+</p>
 ## 💻 Tools I'm comfortable with
 
 <p align="center">
