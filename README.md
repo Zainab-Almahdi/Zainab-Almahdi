@@ -6,15 +6,12 @@
 
 ## 🌸 A little bit about me
 
-- 👩🏻‍💻 Programming student  
-- 🎨 Enjoy designing intuitive and user-friendly UX/UI experiences  
-- ☁️ Currently exploring cloud technologies  
-- 👾 Interested in mobile, software, and game development  
-- 🧶 Enjoy arts and crafts and blending creativity with technology
-- 🎆 Always curious to learn more and continuously improve my skills
-
-
-I love building things that are both **functional and meaningful**, and I'm always curious to learn more ✨
+- Programming student👩🏻‍💻  
+- Passionate about designing intuitive and user-friendly UX/UI experiences🎨
+- Currently exploring cloud technologie☁️  
+- Interested in mobile, software, and game development👾  
+- Enjoy arts and crafts and blending creativity with technology👩🏻‍🎨
+- Always curious to learn more and continuously improve my skills🌟
 
 ## 💻 Tools I'm comfortable with 
 
