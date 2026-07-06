@@ -1,6 +1,4 @@
-<h1 align="center"><b>Hello, I'm Zainab🌸</b></h1>
-<h2 align="center">Welcome!</h2>
-
+<img width="100%" src="<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header"/>"/>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpmcjM1cm95YmdwNWRlb3pvc3YxNzlwYzk1Mm83eWFsdnN0MXU3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="280" />
 </p>
