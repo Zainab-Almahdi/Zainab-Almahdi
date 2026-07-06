@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello! I'm Zainab Almahdi
+## 💻 Tools I'm comfortable with
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php,js,html,css,react,dotnet,bootstrap,jquery" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,azure,unity,unreal,figma,git,github,linux" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=powershell,vscode,visualstudio,windows,swift,notion,discord,stackoverflow" />
+</p>
 <!--
 **Zainab-Almahdi/Zainab-Almahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
